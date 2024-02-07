@@ -11,8 +11,8 @@ node_modules
 data
 dist
 dist-ssr
-*.local
-.env.local
+# *.local
+# .env.local
 package-lock.json
 
 # Editor directories and files
